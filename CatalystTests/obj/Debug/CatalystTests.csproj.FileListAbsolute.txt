@@ -1,0 +1,12 @@
+E:\Assignment\Catalyst\CatalystTests\bin\Debug\CatalystTests.dll
+E:\Assignment\Catalyst\CatalystTests\bin\Debug\CatalystTests.pdb
+E:\Assignment\Catalyst\CatalystTests\bin\Debug\Catalyst.exe
+E:\Assignment\Catalyst\CatalystTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Assignment\Catalyst\CatalystTests\bin\Debug\Catalyst.Data.dll
+E:\Assignment\Catalyst\CatalystTests\bin\Debug\EntityFramework.dll
+E:\Assignment\Catalyst\CatalystTests\bin\Debug\Catalyst.pdb
+E:\Assignment\Catalyst\CatalystTests\bin\Debug\Catalyst.Data.pdb
+E:\Assignment\Catalyst\CatalystTests\bin\Debug\EntityFramework.xml
+E:\Assignment\Catalyst\CatalystTests\obj\Debug\CatalystTests.csprojResolveAssemblyReference.cache
+E:\Assignment\Catalyst\CatalystTests\obj\Debug\CatalystTests.dll
+E:\Assignment\Catalyst\CatalystTests\obj\Debug\CatalystTests.pdb

@@ -1,0 +1,7 @@
+E:\Assignment\Catalyst\Catalyst.Data\bin\Debug\Catalyst.Data.dll
+E:\Assignment\Catalyst\Catalyst.Data\bin\Debug\Catalyst.Data.pdb
+E:\Assignment\Catalyst\Catalyst.Data\obj\Debug\Catalyst.Data.csprojResolveAssemblyReference.cache
+E:\Assignment\Catalyst\Catalyst.Data\obj\Debug\Catalyst.Data.dll
+E:\Assignment\Catalyst\Catalyst.Data\obj\Debug\Catalyst.Data.pdb
+E:\Assignment\Catalyst\Catalyst.Data\bin\Debug\EntityFramework.dll
+E:\Assignment\Catalyst\Catalyst.Data\bin\Debug\EntityFramework.xml
